@@ -71,6 +71,7 @@ owners turn it off for every plugin at once with `enabled: false` in `plugins/Pl
 ## Links
 
 - [Quickstart](https://pluginanalytics.dev/docs/)
+- [The SDK on SpigotMC](https://www.spigotmc.org/resources/139577/)
 - [SDK reference](https://pluginanalytics.dev/docs/api/)
 - [Pricing](https://pluginanalytics.dev/pricing/)
 - [Founding developer program](https://pluginanalytics.dev/founding/): the first 50 developers get Pro free for 90 days
