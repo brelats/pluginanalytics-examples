@@ -1,0 +1,10 @@
+name: ArenaExample
+version: ${version}
+main: com.example.arena.ArenaExample
+api-version: '1.21'
+folia-supported: true
+description: A tiny arena plugin that shows how to use PluginAnalytics.
+commands:
+  arena:
+    description: Join an arena, leave it or pick a kit.
+    usage: /arena <join|leave|kit> [mode|kit]

@@ -1,0 +1,7 @@
+# Your project key, from https://pluginanalytics.dev (Add a plugin or mod).
+analytics-key: pa_your_project_key
+
+# Plain choices like these show up in Config usage: how many servers changed each default.
+storage: sqlite
+default-mode: solo
+max-players: 16

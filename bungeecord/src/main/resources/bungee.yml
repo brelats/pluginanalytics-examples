@@ -1,0 +1,4 @@
+name: PartyExample
+version: ${version}
+main: com.example.party.PartyExample
+author: Skilled
